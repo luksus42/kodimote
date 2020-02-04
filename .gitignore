@@ -22,3 +22,4 @@ xbmcremote_template.pkg
 build
 apps/generic/kodimote
 libkodimote/libkodimote.a
+.idea/
