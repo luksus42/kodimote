@@ -3,5 +3,5 @@
     "build_args": "CONFIG+=ubuntu",
     "root_dir": "../../",
     "src_dir": "${ROOT}",
-    "build_dir": "${ROOT}/apps/ubuntu/build/${ARCH_TRIPLET}/app"
+    "build_dir": "${ROOT}/apps/ubuntu/.build/${ARCH_TRIPLET}/app"
 }
