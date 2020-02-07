@@ -9,8 +9,8 @@
             "content-hub": "kodimote-contenthub.json"
         }
     },
-    "maintainer": "Michael Zanetti <michael_zanetti@gmx.net>",
-    "name": "com.ubuntu.developer.mzanetti.kodimote",
+    "maintainer": "luksus42 <lukas42@posteo.de>",
+    "name": "kodimote.luksus",
     "title": "Kodimote",
-    "version": "2.2.1.0"
+    "version": "2.2.1.2"
 }
