@@ -39,7 +39,7 @@
 int main(int argc, char** argv)
 {
 
-    QCoreApplication::setOrganizationName("com.ubuntu.developer.mzanetti.kodimote");
+    QCoreApplication::setOrganizationName("kodimote.luksus");
     QCoreApplication::setApplicationName("kodimote");
 
     QGuiApplication application(argc, argv);
@@ -62,7 +62,7 @@ int main(int argc, char** argv)
     application.installTranslator(&translator);
 
 
-    Kodi::instance()->setDataPath(QDir::homePath() + "/.cache/com.ubuntu.developer.mzanetti.kodimote/");
+    Kodi::instance()->setDataPath(QDir::homePath() + "/.cache/kodimote.luksus/");
     Kodi::instance()->eventClient()->setApplicationThumbnail("kodimote80.png");
 
     QQuickView *view = new QQuickView();
