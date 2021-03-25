@@ -1,5 +1,5 @@
 {
-    "template": "qmake",
+    "builder": "qmake",
     "build_args": "CONFIG+=ubuntu",
     "root_dir": "../../",
     "src_dir": "${ROOT}",
